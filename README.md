@@ -48,6 +48,7 @@ By completing this reflection, you will gain a clearer understanding of your car
         - Recognition
         - Communication
         - Team work
+        - Feedback
 
 ### Part 2: Career Exploration Insights
 
@@ -74,8 +75,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     - List your specific, measurable, achievable, relevant, and time-bound goals.
-        - To successfully complete my software development course.
-        - To get an job opportunity in the tech industry.
+        - To successfully complete my software development course by mid next year.
     - Explain the rationale behind each goal.
         - Enjoy learning software development and have a keen interest in web development.
         - It is a rewarding career and you never stop learning new things. 
@@ -108,6 +108,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
     - Identify potential obstacles or challenges in reaching your goals.
         - By not understanding the programming aspect of web development.
+        - Doubting myself that I might not get the programming side of web development like JavaScript.
+        - Not be able to get an entry or junior level opportunity in the tech industry.
     - Consider strategies to overcome these challenges.
         - Support and continues practice until I understand it and can apply it. 
 2. **Opportunities for Growth**:
